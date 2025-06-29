@@ -1,0 +1,13 @@
+{
+  "topic": "Arrays",
+  "questions": [
+    {
+      "title": "Two Sum",
+      "difficulty": "Easy",
+      "link": "https://leetcode.com/problems/two-sum/",
+      "source": "Striver",
+      "tags": ["hashmap", "brute-force", "array"],
+      "order_in_topic": 1
+    }
+  ]
+}
